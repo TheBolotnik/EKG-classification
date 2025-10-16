@@ -12,12 +12,6 @@ venv/
 .env
 .ipynb_checkpoints/
 
-# Data / models / artifacts
-data/
-models/
-images/
-!images/.keep
-
 # IDE/OS
 .DS_Store
 Thumbs.db
